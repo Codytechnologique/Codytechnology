@@ -50,6 +50,23 @@ export const translations = {
     footer: {
       copyright: "© 2026 CODYTECH. Tous droits réservés.",
       location: "Basé en France, disponible à distance"
+    },
+    projectDetail: {
+      title: "Gestion de Projets Intelligent",
+      subtitle: "Une plateforme cloud complète pour gérer vos projets, collaborer en équipe et automatiser les workflows avec l'intelligence artificielle.",
+      objective: "Objectif",
+      objectiveDesc: "Créer une plateforme SaaS moderne que les équipes puissent utiliser pour centraliser la gestion de leurs projets, faciliter la collaboration et automatiser les tâches répétitives grâce à l'IA.",
+      challenge: "Défi Principal",
+      challengeDesc: "Concevoir une interface intuitive capable de gérer des milliers de tâches, intégrer des APIs externes et traiter les données en temps réel sans ralentissement.",
+      mainFeatures: "Fonctionnalités Principales",
+      technologies: "Technologies Utilisées",
+      developmentProcess: "Processus de Développement",
+      results: "Résultats & Métriques",
+      team: "Notre Équipe",
+      timeline: "Timeline du Projet",
+      cta: "Intéressé par un projet similaire ?",
+      ctaDesc: "Nous créons des applications SaaS scalables et performantes. Discutons de votre idée.",
+      ctaButton: "Démarrer un Projet"
     }
   },
   en: {
@@ -103,6 +120,23 @@ export const translations = {
     footer: {
       copyright: "© 2026 CODYTECH. All rights reserved.",
       location: "Based in France, available remotely"
+    },
+    projectDetail: {
+      title: "Smart Project Management",
+      subtitle: "A complete cloud platform to manage your projects, collaborate with your team and automate workflows with artificial intelligence.",
+      objective: "Objective",
+      objectiveDesc: "Create a modern SaaS platform that teams can use to centralize project management, facilitate collaboration and automate repetitive tasks with AI.",
+      challenge: "Main Challenge",
+      challengeDesc: "Design an intuitive interface capable of managing thousands of tasks, integrating external APIs and processing real-time data without slowdown.",
+      mainFeatures: "Main Features",
+      technologies: "Technologies Used",
+      developmentProcess: "Development Process",
+      results: "Results & Metrics",
+      team: "Our Team",
+      timeline: "Project Timeline",
+      cta: "Interested in a similar project?",
+      ctaDesc: "We create scalable and high-performance SaaS applications. Let's discuss your idea.",
+      ctaButton: "Start a Project"
     }
   },
   es: {
@@ -156,6 +190,23 @@ export const translations = {
     footer: {
       copyright: "© 2026 CODYTECH. Todos los derechos reservados.",
       location: "Con sede en Francia, disponible a distancia"
+    },
+    projectDetail: {
+      title: "Gestión Inteligente de Proyectos",
+      subtitle: "Una plataforma cloud completa para gestionar tus proyectos, colaborar con tu equipo y automatizar flujos de trabajo con inteligencia artificial.",
+      objective: "Objetivo",
+      objectiveDesc: "Crear una plataforma SaaS moderna que los equipos puedan usar para centralizar la gestión de proyectos, facilitar la colaboración y automatizar tareas repetitivas con IA.",
+      challenge: "Desafío Principal",
+      challengeDesc: "Diseñar una interfaz intuitiva capaz de gestionar miles de tareas, integrar APIs externas y procesar datos en tiempo real sin ralentizaciones.",
+      mainFeatures: "Funcionalidades Principales",
+      technologies: "Tecnologías Utilizadas",
+      developmentProcess: "Proceso de Desarrollo",
+      results: "Resultados y Métricas",
+      team: "Nuestro Equipo",
+      timeline: "Cronograma del Proyecto",
+      cta: "¿Interesado en un proyecto similar?",
+      ctaDesc: "Creamos aplicaciones SaaS escalables y de alto rendimiento. Hablemos sobre tu idea.",
+      ctaButton: "Iniciar un Proyecto"
     }
   }
 };

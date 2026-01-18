@@ -1,4 +1,4 @@
-body { font-family: 'Inter', sans-serif; background-color: #050505; color: #e5e5e5; }
+body { font-family: 'Inter', sans-serif; background-color: #1E3A8A; /* Blue */ color: #FFFFFF; /* White */ }
 .mono { font-family: 'Fira Code', monospace; }
 .tech-card { 
     border: 1px solid #1f2937; 
@@ -6,9 +6,9 @@ body { font-family: 'Inter', sans-serif; background-color: #050505; color: #e5e5
     transition: all 0.3s ease;
 }
 .tech-card:hover { 
-    border-color: #10b981; 
+    border-color: #1E3A8A; /* Blue */ 
     transform: translateY(-5px);
-    box-shadow: 0 10px 30px -15px rgba(16, 185, 129, 0.3);
+    box-shadow: 0 10px 30px -15px rgba(30, 58, 138, 0.3);
 }
 input, textarea { border-radius: 0px !important; }
-::selection { background: #10b981; color: #000; }
+::selection { background: #1E3A8A; /* Blue */ color: #FFFFFF; /* White */ }

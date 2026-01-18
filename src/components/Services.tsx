@@ -14,7 +14,6 @@ export default function Services() {
       
       <div className="grid md:grid-cols-2 gap-8">
         <div className="tech-card p-10">
-          <div className="mono text-emerald-500 text-sm mb-4">module.web_dev</div>
           <h3 className="text-2xl font-bold mb-4 uppercase">{t.services.webDev}</h3>
           <p className="text-gray-300 leading-relaxed mb-6">
             {t.services.webDevDesc}
@@ -27,7 +26,6 @@ export default function Services() {
         </div>
 
         <div className="tech-card p-10">
-          <div className="mono text-emerald-500 text-sm mb-4">module.automation</div>
           <h3 className="text-2xl font-bold mb-4 uppercase">{t.services.automation}</h3>
           <p className="text-gray-300 leading-relaxed mb-6">
             {t.services.automationDesc}

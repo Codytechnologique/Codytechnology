@@ -10,21 +10,21 @@ export default function Portfolio() {
       id: 1,
       title: t.portfolio.project1Title,
       description: t.portfolio.project1Description,
-      imageUrl: 'https://via.placeholder.com/400x250/10b981/000000?text=Project+1',
-      link: '#',
+      imageUrl: 'https://via.placeholder.com/400x250/1E3A8A/FFFFFF?text=Project+1',
+      link: '#project-saas',
     },
     {
       id: 2,
       title: t.portfolio.project2Title,
       description: t.portfolio.project2Description,
-      imageUrl: 'https://via.placeholder.com/400x250/059669/000000?text=Project+2',
+      imageUrl: 'https://via.placeholder.com/400x250/1E3A8A/FFFFFF?text=Project+2',
       link: '#',
     },
     {
       id: 3,
       title: t.portfolio.project3Title,
       description: t.portfolio.project3Description,
-      imageUrl: 'https://via.placeholder.com/400x250/065f46/000000?text=Project+3',
+      imageUrl: 'https://via.placeholder.com/400x250/1E3A8A/FFFFFF?text=Project+3',
       link: '#',
     },
   ];
@@ -45,7 +45,7 @@ export default function Portfolio() {
               <p className="text-gray-400 text-sm mb-4">{project.description}</p>
               <a 
                 href={project.link} 
-                className="inline-block mono text-emerald-500 hover:text-emerald-400 transition-colors text-sm"
+                className="inline-block mono text-blue-600 hover:text-blue-400 transition-colors text-sm"
               >
                 {t.portfolio.viewProject} &rarr;
               </a>
