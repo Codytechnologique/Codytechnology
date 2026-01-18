@@ -1,8 +1,6 @@
 import { useState } from 'react';
-import { useLanguage } from '../LanguageContext';
 
 export default function SaasDashboard() {
-  const { language } = useLanguage();
   const [activeTab, setActiveTab] = useState<'projects' | 'tasks' | 'analytics'>('projects');
 
   const projects = [
